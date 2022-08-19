@@ -54,4 +54,5 @@ Although the classification report for either dataset had a poor accuracy, it pr
 
 <img width="399" alt="Screen Shot 2022-08-19 at 6 56 26 pm" src="https://user-images.githubusercontent.com/102783432/185583515-61bb5350-2710-4a0f-8e70-0db22b0fed14.png">
 
+Thus, from the findings gathered, it is appropriate to suggest that the tuned algorithmic trading dataset, provided a better model than both the baseline and the classifier model. This is assumed, due to the difference in correlation of the variables each model provides, although very similar in presentation and fluctuations, it is observed that the tuned model showed greater similarity of the Strategy and Actual Returns. 
 
